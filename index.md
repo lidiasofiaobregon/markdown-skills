@@ -8,3 +8,7 @@
 ```
 read.file(file="pancake_types.csv", header=T, sep=",")
 ```
+
+- [ ] read in the pancake file
+- [x] check if any NAs
+- [ ] run descriptive statistics on pancake shops 
